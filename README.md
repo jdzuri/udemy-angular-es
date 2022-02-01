@@ -1,7 +1,5 @@
 # Angular: De cero a experto
 
-
-
  [Angular: De cero a experto (Legacy)](https://www.udemy.com/course/angular-2-fernando-herrera/)
 
 ## Acerca de este curso
@@ -10,17 +8,18 @@ Todo lo que necesitas saber de angular utilizando TypeScript y buenas prácticas
 
 **Por cifras**
 
-Nivel de habilidad: Todos los niveles
++ Nivel de habilidad: Todos los niveles
 
-Estudiantes: 59334
++ Estudiantes: 59334
 
-Idiomas: Español
++ Idiomas: Español
 
-Subtítulos: Sí
++ Subtítulos: Sí
 
-clases: 376
++ clases: 376
 
-Vídeo: 35,5 horas en total
++ Vídeo: 35,5 horas en total
+
 
 ## Descripción
 
