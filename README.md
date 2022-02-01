@@ -107,3 +107,6 @@ Anímate e inscríbete, te veo adentro.
 + Aquellos que quieran una introducción a Ionic
 + Personas que no tengan conocimiento alguno de Angular
 + Personas que estén interesadas en el consumo de recursos de terceros como Google, Twitter, Facebook, Firebase, entre otros
+
+
+END
