@@ -1,6 +1,6 @@
 # Angular: De cero a experto
 
- [Angular: De cero a experto (Legacy)](https://www.udemy.com/course/angular-2-fernando-herrera/)
+ + [Angular: De cero a experto (Legacy)](https://www.udemy.com/course/angular-2-fernando-herrera/)
 
 ## Acerca de este curso
 
